@@ -1,6 +1,6 @@
 # zopfli-brunch
 
-Adds zopfli support to [brunch](http://brunch.io).
+Adds zopfli support to [Brunch](http://brunch.io).
 
 The plugin will compress JS files and CSS files.
 
@@ -17,6 +17,11 @@ This plugin works only when optimized option is passed.
 ```
 $ brunch build --production
 ```
+
+## TODO
+
+- Allow compression of other files like fonts.
+- Add possibility to compress PNGs using `zopfli.pngcompress`
 
 ## CHANGELOG
 
