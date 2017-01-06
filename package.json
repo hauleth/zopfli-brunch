@@ -1,6 +1,6 @@
 {
   "name": "zopfli-brunch",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Adds zopfli support to Brunch.",
   "author": "Łukasz Niemier",
   "homepage": "https://github.com/hauleth/zopfli-brunch",
