@@ -15,14 +15,16 @@
   "devDependencies": {
     "chai": "^3",
     "eslint": "^3.12.2",
-    "mocha": "^3",
-    "eslint-config-brunch": "brunch/eslint-config-brunch"
+    "eslint-config-brunch": "brunch/eslint-config-brunch",
+    "mocha": "^3"
   },
   "dependencies": {
     "node-zopfli": "^2.0.2"
   },
   "eslintConfig": {
-    "parserOptions": { "sourceType": "module" },
+    "parserOptions": {
+      "sourceType": "module"
+    },
     "extends": "brunch"
   }
 }
